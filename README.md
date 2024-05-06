@@ -5,9 +5,8 @@ I’m Sayali (pronounced “s AA y - l ee”). I’m a software engineer who enj
 - 💬 Ask me about React.js, JavaScript.
 - 📫 How to reach me: sayalisuniltandel@gmail.com
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sayalitandel&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayalitandel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-
+<strong>Also,</strong>
 <br>✨ I am a firm believer in creating user-friendly, scalable, and secure applications with continuous integration/continuous deployment (CI/CD) pipelines and test-driven development (TDD) to minimize bugs and speed up the release cycle. But, If I’m not in front of my laptop, I’m most likely trying out new recipes or journaling.<br>
