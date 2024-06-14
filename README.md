@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sayali Tandel</h1>
-I’m a software engineer who enjoys building applications incorporating my creativity and problem-solving skills. The best part is that I’m allowed to break the code to improve it (in a separate Git branch, of course!).<br><br>💻 I specialize in full-stack development, database optimization, domain-driven designing, and implementation of responsive design principles with expertise in React, Next.js, Java, Python, and more for every project.<br>
+I’m a software engineer who enjoys building applications incorporating my creativity and problem-solving skills. The best part is that I’m allowed to break the code to improve it (in a separate Git branch, of course!).<br><br>💻 I specialize in full-stack development, database optimization, domain-driven designing, and implementation of responsive design principles with expertise in React, Next.js, Java, Python, and more for every project.<br><br>
 
 - 🎯 I'm seeking new opportunities to apply my skills in a dynamic environment.
 - 💬 Ask me about React.js, JavaScript.
